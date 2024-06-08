@@ -53,3 +53,15 @@ Resolvem el conflicte afegint els canvis
 
 ![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/image6.png?raw=true)
 
+Creem un pull request
+![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/Captura%20de%20pantalla%202024-06-08%20175939.png?raw=true)
+![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/Captura%20de%20pantalla%202024-06-08%20194740.png?raw=true)
+
+Entrem al pull
+![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/Captura%20de%20pantalla%202024-06-08%20195130.png?raw=true)
+
+Aqui es podran afegir els comentaris a l'hora de realitzar el pull
+
+![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/Captura%20de%20pantalla%202024-06-08%20195704.png?raw=true)
+
+
