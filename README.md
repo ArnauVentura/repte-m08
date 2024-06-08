@@ -4,7 +4,7 @@ Proba GitHub
 
 Crear el repositori.
 
-![alt text]([http://url/to/img.png](https://github.com/ArnauVentura/repte-m08/blob/main/images/image1.png?raw=true))
+![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/image1.png?raw=true)
 
 Clonar el repositori.
 	
