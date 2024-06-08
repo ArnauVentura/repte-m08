@@ -29,7 +29,6 @@ Col·laboració
 
 ![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/image8.png?raw=true)
 ![alt text](https://github.com/ArnauVentura/repte-m08/blob/main/images/image11.png?raw=true)
-https://github.com/ArnauVentura/repte-m08/blob/main/images/image11.png?raw=true
 
 Els canvis sincronitzats com a propietari.
 
